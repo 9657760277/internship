@@ -5,7 +5,7 @@ body{
     scroll-behavior: smooth;
 }
 .service {
-    background-image:url("images/palash.webp");
+    background-image:url("palash.webp");
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
