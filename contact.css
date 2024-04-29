@@ -10,7 +10,7 @@ body{
           justify-content: center;
           align-items: center;
           min-height: 100vh;
-          background-image:url(images/baranti.webp);
+          background-image:url(baranti.webp);
           background-position: center center;
           background-size: cover;
           background-repeat: no-repeat;
